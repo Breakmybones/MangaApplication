@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Ap</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_details">Details</string>
+    <string name="screen_settings">Settings</string>
+    <string name="screen_third">Memas</string>
+    <string name="details_prefix">details/</string>
 </resources>
